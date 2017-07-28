@@ -10,17 +10,10 @@
   "nativePackage": true,
   "license": "MIT",
   "homepage": "https://github.com/lwansbrough/react-native-camera",
-  "keywords": [
-    "react-native",
-    "react",
-    "native",
-    "camera",
-    "qr",
-    "code",
-    "barcode"
-  ],
+  "keywords": ["react-native", "react", "native", "camera", "qr", "code", "barcode"],
   "dependencies": {
-    "opencollective": "^1.0.3"
+    "opencollective": "^1.0.3",
+    "prop-types": "^15.5.10"
   },
   "collective": {
     "type": "opencollective",
